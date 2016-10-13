@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'cancan'
 gem 'paperclip'
+gem 'friendly_id'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
